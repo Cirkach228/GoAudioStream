@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	handler.runHandlers()
+	handler.RunHandlers()
 }
